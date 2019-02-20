@@ -29,5 +29,12 @@ public class MyLinkList {
         this.currentsize = currentsize;
     }
 
+    public MyLinkList() {
+        this.head=null;
+        this.tail=null;
+        currentsize=0;
+    }
+
+
 }
 
