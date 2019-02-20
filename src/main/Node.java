@@ -2,8 +2,9 @@ package main;
 
 public class Node {
 private int data;
-
-    public int getData() {
+//commit-ctrl+k
+    //commit for ctrl+shift+k
+public int getData() {
         return data;
     }
 
