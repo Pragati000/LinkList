@@ -2,6 +2,7 @@ package main;
 
 public class Node {
 private int data;
+private Node next;
 //commit-ctrl+k
     //commit for ctrl+shift+k
 public int getData() {
