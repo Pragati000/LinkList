@@ -26,4 +26,8 @@ public int getData() {
         this.next = next;
     }
 
+    public Node() {
+    this.data=0;
+    this.next=null;
+    }
 }
