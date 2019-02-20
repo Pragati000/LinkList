@@ -30,4 +30,9 @@ public int getData() {
     this.data=0;
     this.next=null;
     }
+
+    public Node(int data) {
+        this.data = data;
+        this.next=null;
+    }
 }
