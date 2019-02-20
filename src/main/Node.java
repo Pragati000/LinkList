@@ -20,4 +20,10 @@ public int getData() {
     public void setNext(Node next) {
         this.next = next;
     }
+
+    public Node(int data, Node next) {
+        this.data = data;
+        this.next = next;
+    }
+
 }
