@@ -35,6 +35,12 @@ public class MyLinkList {
         currentsize=0;
     }
 
+    public static void main(String[] args) {
 
+
+        MyLinkList linkList=new MyLinkList();
+        Node node= new Node(10,null);
+
+    }
 }
 
